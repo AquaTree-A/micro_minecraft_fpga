@@ -32,3 +32,7 @@ This project aims to inspire those who wish to implement 3D rendering in their c
 ## A Note on Code Quality
 
 Due to the tight schedule at the end of the semester, the code may be somewhat disorganized. We appreciate your understanding and patience. Please feel free to reach out if you have any questions or need clarifications.
+
+## License
+
+This project is licensed under the MIT License with additional restrictions. See the LICENSE file for details.
