@@ -5,6 +5,8 @@
 This repository contains the complete implementation of the Micro Minecraft project, including the SystemVerilog code for 3D rendering and other functionalities. The project also includes C code for keyboard interaction and Python scripts for converting Minecraft 2D texture images to ROM format used in our project. 
 You can find a more detailed introduction to this project on Bilibili: [Micro Minecraft Project Video](https://www.bilibili.com/video/BV1PYhPedESV/)
 
+![Project Introduction Image](fpgaMC.png)
+
 ## Contents
 
 - **SystemVerilog Code**: All Verilog files necessary for 3D rendering and other functionalities of the Micro Minecraft project.
